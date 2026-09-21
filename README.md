@@ -16,7 +16,7 @@
 
 ### Инструменты
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" title="Python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22" title="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" height="22" title="HTML"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" height="22" title="CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="22" height="22" title="C"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22" height="22" title="C++"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="22" height="22" title="C#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22" height="22" title="Node.js"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="22" height="22" title="SQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" title="Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" title="VSCode"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22" height="22" title="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22" title="Python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22" title="JavaScript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" height="22" title="HTML"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" height="22" title="CSS"> <img src="c.png" width="22" height="22" title="C"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="22" height="22" title="C++"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="22" height="22" title="C#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="22" height="22" title="Node.js"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="22" height="22" title="SQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" title="Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" height="22" title="VSCode"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22" height="22" title="Linux">
 
 ---
 
@@ -47,3 +47,31 @@ Python • Веб-приложения • API • Fullstack
 — Пишу код без музыки — мешает думать.
 — Могу объяснить сложное простыми словами.
 — Верю, что хороший проект говорит сам за себя. Поэтому README короткий.
+
+---
+
+### Почему я начал программировать
+
+Мне всегда было интересно, как работают вещи, которые меня окружают. Сайты, приложения, онлайн-сервисы — за каждым из них стоит код. Я захотел не просто пользоваться этим, а создавать своё.
+
+Началось всё с вопроса «а что если я сделаю это сам?». Первые попытки были неловкими: ошибки, падения, неработающий код. Но каждый раз, когда что-то наконец запускалось, это ощущалось как маленькая победа. Так и затянуло.
+
+С тех пор я понял главное: программирование — это не про запоминание синтаксиса, а про умение решать задачи. Языки приходят и уходят, а мышление остаётся.
+
+---
+
+### Как я учусь
+
+Я не прохожу курсы целиком «от корки до корки». Я выбираю то, что нужно для текущей задачи, разбираюсь в этом и сразу применяю на практике. Теория, которую не проверил руками, — забывается. Практика остаётся.
+
+Мой цикл обучения такой: спросить → понять → сделать → сломать → починить → запомнить. Именно на «сломать» и «починить» приходит больше всего понимания.
+
+Сейчас этот подход помогает мне быстро осваивать новые вещи и не бояться трудных на первый взгляд инструментов.
+
+---
+
+### Куда я двигаюсь
+
+Ближайшая цель — стать уверенным fullstack-разработчиком: такое, что я смогу один взять проект от идеи до запуска, с базой данных, авторизацией, сервером и интерфейсом.
+
+Дальше — делать сервисы, которые реально нужны людям. Не ради портфолио, а потому что это интересно: мне нравится создавать то, чем пользуются.
